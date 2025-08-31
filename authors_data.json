@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "F. Scott Fitzgerald",
+    "biography": "Renowned author F. Scott Fitzgerald has written 1 book(s) in our collection.",
+    "birthYear": 1905,
+    "nationality": "Various",
+    "booksCount": 1
+  },
+  {
+    "id": 2,
+    "name": "Tara Westover",
+    "biography": "Renowned author Tara Westover has written 1 book(s) in our collection.",
+    "birthYear": 1910,
+    "nationality": "Various",
+    "booksCount": 1
+  },
+  {
+    "id": 3,
+    "name": "Frank Herbert",
+    "biography": "Renowned author Frank Herbert has written 1 book(s) in our collection.",
+    "birthYear": 1915,
+    "nationality": "Various",
+    "booksCount": 1
+  },
+  {
+    "id": 4,
+    "name": "Yuval Noah Harari",
+    "biography": "Renowned author Yuval Noah Harari has written 1 book(s) in our collection.",
+    "birthYear": 1920,
+    "nationality": "Various",
+    "booksCount": 1
+  },
+  {
+    "id": 5,
+    "name": "George Orwell",
+    "biography": "Renowned author George Orwell has written 1 book(s) in our collection.",
+    "birthYear": 1925,
+    "nationality": "Various",
+    "booksCount": 1
+  },
+  {
+    "id": 6,
+    "name": "J.R.R. Tolkien",
+    "biography": "Renowned author J.R.R. Tolkien has written 1 book(s) in our collection.",
+    "birthYear": 1930,
+    "nationality": "Various",
+    "booksCount": 1
+  },
+  {
+    "id": 7,
+    "name": "Margaret Atwood",
+    "biography": "Renowned author Margaret Atwood has written 1 book(s) in our collection.",
+    "birthYear": 1935,
+    "nationality": "Various",
+    "booksCount": 1
+  },
+  {
+    "id": 8,
+    "name": "Paulo Coelho",
+    "biography": "Renowned author Paulo Coelho has written 1 book(s) in our collection.",
+    "birthYear": 1940,
+    "nationality": "Various",
+    "booksCount": 1
+  },
+  {
+    "id": 9,
+    "name": "Jane Austen",
+    "biography": "Renowned author Jane Austen has written 1 book(s) in our collection.",
+    "birthYear": 1945,
+    "nationality": "Various",
+    "booksCount": 1
+  },
+  {
+    "id": 10,
+    "name": "Harper Lee",
+    "biography": "Renowned author Harper Lee has written 1 book(s) in our collection.",
+    "birthYear": 1950,
+    "nationality": "Various",
+    "booksCount": 1
+  },
+  {
+    "id": 11,
+    "name": "J.D. Salinger",
+    "biography": "Renowned author J.D. Salinger has written 1 book(s) in our collection.",
+    "birthYear": 1955,
+    "nationality": "Various",
+    "booksCount": 1
+  },
+  {
+    "id": 12,
+    "name": "J.K. Rowling",
+    "biography": "Renowned author J.K. Rowling has written 1 book(s) in our collection.",
+    "birthYear": 1960,
+    "nationality": "Various",
+    "booksCount": 1
+  }
+]

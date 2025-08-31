@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Fiction",
+    "description": "Imaginative works of literature",
+    "bookCount": 4
+  },
+  {
+    "id": 2,
+    "name": "Non-Fiction",
+    "description": "Factual and informational books",
+    "bookCount": 1
+  },
+  {
+    "id": 3,
+    "name": "Science Fiction",
+    "description": "Futuristic and speculative fiction",
+    "bookCount": 2
+  },
+  {
+    "id": 4,
+    "name": "Fantasy",
+    "description": "Magical and mythical adventures",
+    "bookCount": 2
+  },
+  {
+    "id": 5,
+    "name": "Biography",
+    "description": "Life stories of real people",
+    "bookCount": 1
+  },
+  {
+    "id": 6,
+    "name": "History",
+    "description": "Past events and civilizations",
+    "bookCount": 1
+  },
+  {
+    "id": 7,
+    "name": "Self-Help",
+    "description": "Personal development and improvement",
+    "bookCount": 1
+  }
+]
